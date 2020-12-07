@@ -368,7 +368,11 @@ button:hover {
     border-top: 2px solid rgba(250, 250, 250, 0.1);
 }
 
-.left-image img,
+.left-image img{
+    border-radius: 5px;
+    width: 76%;
+}
+
 .right-image img {
     border-radius: 5px;
 }
